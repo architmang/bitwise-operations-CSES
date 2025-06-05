@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/archit/Desktop/bitwise-operations-CSES",
-      "program": "/Users/archit/Desktop/bitwise-operations-CSES/build/Debug/outDebug"
+      "cwd": "/Users/archit/Desktop/study/bitwise-operations-CSES",
+      "program": "/Users/archit/Desktop/study/bitwise-operations-CSES/build/Debug/outDebug"
     }
   ]
 }
